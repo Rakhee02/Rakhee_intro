@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakhee
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Science from IIIT-Bangalore
-- 💞️ I’m looking for new role in Data Analytics domain
+- 💞️ I’m working with Thermofisher Scientific as Business Analyst
 - ✨ 2021 Goals: Contribute more in Data Analytics projects
 - 📫 You can reach out to me @9643063362
 ### Connet with me 
